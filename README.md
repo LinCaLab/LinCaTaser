@@ -1,2 +1,0 @@
-# LinCaTaser
-Under development
